@@ -1,6 +1,7 @@
 # Offical Link
 Facebook Login
-https://developers.facebook.com/docs/facebook-login/
+https://developers.facebook.com/docs/facebook-login/  
+https://developers.google.com/identity/sign-in/android/start
 
 
 ## Add it in your root build.gradle at the end of repositories:
@@ -55,3 +56,5 @@ https://developers.facebook.com/docs/facebook-login/
 ## 为应用提供开发和发布密钥散列
 启用Google Play App Signing后的大麻烦和解决办法(不用重新创建应用)
 https://blog.csdn.net/weixin_40707679/article/details/80827889
+
+# Google 登录 
