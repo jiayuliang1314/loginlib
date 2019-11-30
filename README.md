@@ -2,6 +2,22 @@
 Facebook Login
 https://developers.facebook.com/docs/facebook-login/
 
+
+## Add it in your root build.gradle at the end of repositories:
+```
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+## Step 2. Add the dependency
+```
+	dependencies {
+	        implementation 'com.github.jiayuliang1314:loginlib:Tag'
+	}
+```
 # Facebook 登录 
 ## 编辑您的资源和清单
 为您的 Facebook 应用编号以及启用 Chrome 自定义选项卡所需的编号创建字符串。另外，请将 FacebookActivity 添加到您的 Android 清单文件中。
