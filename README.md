@@ -15,7 +15,7 @@ https://developers.facebook.com/docs/facebook-login/
 ## Step 2. Add the dependency
 ```
 	dependencies {
-	        implementation 'com.github.jiayuliang1314:loginlib:Tag'
+	        implementation 'com.github.jiayuliang1314:loginlib:1.0.1'
 	}
 ```
 # Facebook 登录 
