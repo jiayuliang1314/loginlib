@@ -1,9 +1,9 @@
-#Offical Link
+# Offical Link
 Facebook Login
 https://developers.facebook.com/docs/facebook-login/
 
-#Facebook 登录 
-##编辑您的资源和清单
+# Facebook 登录 
+## 编辑您的资源和清单
 为您的 Facebook 应用编号以及启用 Chrome 自定义选项卡所需的编号创建字符串。另外，请将 FacebookActivity 添加到您的 Android 清单文件中。
 打开您的 /app/res/values/strings.xml 文件。
 添加如下所示的代码：
@@ -36,6 +36,6 @@ https://developers.facebook.com/docs/facebook-login/
     </intent-filter> 
 </activity>
 ```
-##为应用提供开发和发布密钥散列
+## 为应用提供开发和发布密钥散列
 启用Google Play App Signing后的大麻烦和解决办法(不用重新创建应用)
 https://blog.csdn.net/weixin_40707679/article/details/80827889
